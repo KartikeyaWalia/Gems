@@ -1,0 +1,3 @@
+wget -N -O vscode-linux-deb.arm64.deb https://update.code.visualstudio.com/1.83.1/linux-deb-arm64/stable
+
+sudo apt install ./vscode-linux-deb.arm64.deb
